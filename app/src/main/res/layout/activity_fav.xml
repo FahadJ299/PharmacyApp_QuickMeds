@@ -6,4 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".FavActivity">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="404dp"
+        android:layout_height="50dp"
+        android:text="Favourite List"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="111dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

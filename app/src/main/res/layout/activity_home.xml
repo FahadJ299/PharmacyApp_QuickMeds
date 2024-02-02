@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="343dp"
         android:layout_below="@+id/imageView3"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="59dp"
         android:src="@drawable/gifproducts" />
 
     <TextView
@@ -60,17 +60,17 @@
         android:layout_width="78dp"
         android:layout_height="44dp"
         android:layout_below="@+id/imageView3"
-        android:layout_marginTop="397dp"
+        android:layout_marginTop="433dp"
         android:background="@drawable/background"
         app:srcCompat="@android:drawable/stat_sys_speakerphone" />
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="240dp"
-        android:layout_height="64dp"
+        android:layout_width="239dp"
+        android:layout_height="wrap_content"
         android:layout_alignTop="@+id/name"
-        android:layout_marginStart="9dp"
-        android:layout_marginTop="386dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="419dp"
         android:layout_toEndOf="@+id/imageView2"
         android:text="+42123132149"
         android:textSize="34sp" />
@@ -80,7 +80,7 @@
         android:layout_width="match_parent"
         android:layout_height="110dp"
         android:layout_below="@+id/btnOpenFavActivity"
-        android:layout_marginTop="-556dp"
+        android:layout_marginTop="-589dp"
         app:srcCompat="@drawable/logo" />
 
     <Button
@@ -88,8 +88,8 @@
         android:layout_width="68dp"
         android:layout_height="56dp"
         android:layout_below="@+id/textView6"
-        android:layout_marginStart="254dp"
-        android:layout_marginTop="-68dp"
+        android:layout_marginStart="257dp"
+        android:layout_marginTop="-58dp"
         android:layout_toEndOf="@+id/imageView2"
         android:text="Button"
         app:icon="@drawable/ic_heart_filled" />

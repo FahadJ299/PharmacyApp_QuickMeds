@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985423106204",
+    "project_id": "roomdatabase-89f32",
+    "storage_bucket": "roomdatabase-89f32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985423106204:android:381118596bec33363a9d59",
+        "android_client_info": {
+          "package_name": "com.example.roomdatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2-6XSAvESWgQD9yyOZNJGYREecwG_5n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

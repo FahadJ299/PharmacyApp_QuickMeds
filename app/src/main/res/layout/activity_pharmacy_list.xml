@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="280dp"
-    android:layout_height="200dp"
+    android:layout_width="380dp"
+    android:layout_height="250dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     app:cardCornerRadius="20dp"
     android:layout_margin="10dp"
@@ -19,15 +20,18 @@
 
         <TextView
             android:id="@+id/text_title"
-            android:layout_width="57dp"
-            android:layout_height="95dp"
+            android:layout_width="81dp"
+            android:layout_height="119dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentBottom="true"
             android:layout_marginStart="-6dp"
-            android:layout_marginEnd="10dp"
-            android:layout_marginBottom="52dp"
+            android:layout_marginEnd="48dp"
+            android:layout_marginBottom="71dp"
             android:text="Rs: 999"
-            android:textSize="25sp" />
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <com.google.android.material.card.MaterialCardView
             android:layout_width="200dp"

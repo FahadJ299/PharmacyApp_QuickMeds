@@ -27,10 +27,14 @@
         <activity
             android:name=".Login"
             android:exported="false" />
-        <activity android:name=".HomeActivity">
 
-            <!-- other activity attributes -->
-        </activity>
+        <activity android:name=".HomeActivity"
+            android:exported="false"/>
+
+        <!-- Intent filters or other activity configurations go here -->
+
+
+
         <activity
             android:name=".FavActivity"
             android:exported="false" />
